@@ -17,6 +17,7 @@ def get_log(path):
       return new_function
     return decorator
 
+
 @get_log(file_path)
 def new_function(*args, **kwargs):
     stats_items = stats.items()
