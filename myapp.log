@@ -1,3 +1,0 @@
-INFO:root:Текущая дата и время: 2022-09-10 20:20:54.521735
-INFO:root:Была вызвана функция stats2 с аргументами {'facebook': 55, 'yandex': 120, 'vk': 115, 'google': 99, 'email': 42, 'ok': 98} и C:\Demo
-INFO:root:результат yandex
